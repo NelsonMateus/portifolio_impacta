@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9f1e1d57.css",
+    "main.js": "/static/js/main.ad508a14.js",
+    "static/media/nelson-mateus.pdf": "/static/media/nelson-mateus.3bdce343fca56348da9f.pdf",
+    "static/media/profile.png": "/static/media/profile.208af02afc1f22323a81.png",
+    "static/media/background.png": "/static/media/background.0f1c4b3ea7694293855e.png",
+    "static/media/testimonial3.png": "/static/media/testimonial3.2e18bfe27c6d2e2e9fdc.png",
+    "static/media/logotipo.png": "/static/media/logotipo.c81d2e1f221388170a79.png",
+    "static/media/work2.jpg": "/static/media/work2.e52a0c2981a6c11ba468.jpg",
+    "static/media/work7.jpg": "/static/media/work7.e52a0c2981a6c11ba468.jpg",
+    "static/media/testimonial2.png": "/static/media/testimonial2.39a53f7f092f07f5bceb.png",
+    "static/media/work4.jpg": "/static/media/work4.aee985961b648f4df1f2.jpg",
+    "static/media/work5.jpg": "/static/media/work5.094ec4a2224db8908873.jpg",
+    "static/media/work1.jpg": "/static/media/work1.321b4ae3bf404acdfdc6.jpg",
+    "static/media/work6.jpg": "/static/media/work6.321b4ae3bf404acdfdc6.jpg",
+    "static/media/work3.jpg": "/static/media/work3.135e9065694bc13dc31d.jpg",
+    "static/media/work8.jpg": "/static/media/work8.135e9065694bc13dc31d.jpg",
+    "static/media/testimonial1.png": "/static/media/testimonial1.89079c1d25f2c94ceb89.png",
+    "index.html": "/index.html",
+    "main.9f1e1d57.css.map": "/static/css/main.9f1e1d57.css.map",
+    "main.ad508a14.js.map": "/static/js/main.ad508a14.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f1e1d57.css",
+    "static/js/main.ad508a14.js"
+  ]
+}
